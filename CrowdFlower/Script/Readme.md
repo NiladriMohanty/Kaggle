@@ -1,4 +1,4 @@
-Kaggle Competition of CrowdFlower.
+# Kaggle Competition of CrowdFlower
 
 The goal of this competition was to create an open-source model to measure the relevance of search results. Given the queries and resulting product descriptions from leading eCommerce sites, this competition asked us to evaluate the accuracy of their search algorithms.
 
